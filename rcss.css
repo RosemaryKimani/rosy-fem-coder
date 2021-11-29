@@ -1,0 +1,22 @@
+body{
+    font-family: serif;
+    color: black;
+    background-color: antiquewhite;
+}
+<h1{
+    font-family: fantasy;
+    color: blue;
+font-family: fantasy;
+}
+<h2{
+    color: green;
+}
+#html-anatomy-heading {
+    color: red;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
